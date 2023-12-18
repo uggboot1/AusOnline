@@ -9,7 +9,7 @@
 #### Keep your details up to date with the company
 ### Your computer
 #### Password and Disk Encryption
-		<!--  prevent logging in to your laptop -->
+<!--  prevent logging in to your laptop -->
 		<!--  If your computer is stolen, your data is still protected -->
 #### Antivirus
 		<!--  "someone else running their program on your computer" -->

@@ -36,6 +36,15 @@ Advice to prevent phone porting
  - items such as date of birth and phone number will give the scammer information to port your number away
 - Your mobile phone company may be able to set a PIN on your account. Remember and protect your PIN.
 
+#### Be alert to SMS scams
+SMS scams are where a scammer will send you an SMS message, to trick you into taking some action. The most obvious is smishing where an SMS message encourages you to tap a link in the message, and log in to your account (the system you log into is not genuine, and they will harvest your login and password to scam you. However Smishing could also be a conversation convincing you to buy send money or gift cards, invest money or disclose personal or banking details.
+
+Here is some guidance on how to avoid SMS scams:
+- Does the message have a link to tap on? If so, it may be a scam. Be extremely cautious.
+- Is this really someone you know or trust? Would they ask you to send money on SMS? Or would they call you and explain?
+- A stranger is trying to convince you to send money, Gift Cards, or invest money. Large returns or avoided penalties promised.
+- There is pressure to act ASAP to get a benefit or avoid a missed opportunity
+
 ### Your computer
 
 #### Password and Disk Encryption

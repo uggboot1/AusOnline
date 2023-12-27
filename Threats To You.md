@@ -2,25 +2,25 @@
 
 ## Protect your critical assets
 ### Your email compromise
-	<!--  Password reset for all accounts -->
+<!--  Password reset for all accounts -->
 ### Your phone compromise
-	<!--  Account access, SMS password resets, Banking apps -->
+<!--  Account access, SMS password resets, Banking apps -->
 ### Your computer
-	<!--  Malware -->
+<!--  Malware -->
 ### Phone number porting
 
 ## Beware of Scams
 ### Phishing/Smishing
-	<!--  Never click or tap links from email or SMS - you don't control them -->
+<!--  Never click or tap links from email or SMS - you don't control them -->
 ### Business Email Compromise
-	<!--  Double check bank account details via telephone -->
+<!--  Double check bank account details via telephone -->
 ### Banking credentials
 ### Online Commerce Credentials
 ### Phone apps, social media, games
-	<!--  Rooted phones -->
+<!--  Rooted phones -->
 ### Online Shopping
-	<!--  trusted only, check the URL -->
-	<!--  Digital card, dynamic payment details from app?  -->
+<!--  trusted only, check the URL -->
+<!--  Digital card, dynamic payment details from app?  -->
 
 ## Availability Risks
 ### Phone availability (eg Optus outage)

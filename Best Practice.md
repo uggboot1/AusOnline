@@ -1,4 +1,4 @@
-# Personal Cyber Security: Defenses and Best Practice
+# Personal Cyber Security: Threat, Defenses and Best Practice
 
 ## Your Devices
 It is extremely important to protect your personal computer and mobile phone. Remember that you will have many personal items such as digital photographs, documents, invoice and receipts, and other types of personal information on your device. If a bad guy gets physical access to your device, it's bad enough they have your personal data, but they may also be able to gather more information from your documents and expand to impact other aspects of your life, including theft, identity theft and fraud.
@@ -45,7 +45,25 @@ Here is some guidance on how to avoid SMS scams:
 - A stranger is trying to convince you to send money, Gift Cards, or invest money. Large returns or avoided penalties promised.
 - There is pressure to act ASAP to get a benefit or avoid a missed opportunity
 
+#### Disposing of your phone
+When you have a new phone, or are no longer using an old phone, you should take measures to safeguard the personal information stored on that phone.
+- Copy off your photos, videos, documents, or anything else you want to keep from your phone
+- Move your authenticators to your new phone
+ - If you have set up authenticators for your online services (for 2-factor authentication via a code on your phone) you will need to move your authenticators onto your new phone. If you don't you may not be able to log in to your account.
+- If your phone has a removable media slot, remove any memory cards from the phone
+- Factory Reset your device to wipe all data from the phone
+- Delete that phone from your online trusted devices
+ - For example, in your Google or Apple account, your cloud email, your streaming services etc
+
 ### Your computer
+Your computer may hold a rich collection of information about you, your family, your friends... your life. It may also contain information which belongs to your employer, your customers or your business. Because of this, your computer can be a significant target for cybercriminals and identity thieves. It is critical that you defend your computer at all levels, and take steps to protect the data that it holds. Remember that your computer is not just at risk from being online, but also physically at risk of damage and theft.
+
+#### Automatic Updates
+
+
+#### Malware
+
+
 
 #### Password and Disk Encryption
 <!--  prevent logging in to your laptop -->
@@ -58,6 +76,8 @@ Passwords protect your devices and cloud services
 <!--  Be very careful where your browse, what you are clicking on -->
 <!--  terms, conditions, privacy policy -->
 
+
+
 ## Your Cloud
 ### Your email
 #### Don't have an email address with your internet company - then you can't change to a better internet provider
@@ -67,6 +87,8 @@ Passwords protect your devices and cloud services
 ### Office
 ### Storage? eg photos
 ### Social Media
+
+
 
 ## Your Location
 ### At home

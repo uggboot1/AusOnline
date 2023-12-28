@@ -45,6 +45,11 @@ Here is some guidance on how to avoid SMS scams:
 - A stranger is trying to convince you to send money, Gift Cards, or invest money. Large returns or avoided penalties promised.
 - There is pressure to act ASAP to get a benefit or avoid a missed opportunity
 
+#### Beware of QRishing (aka Quishing)
+Since the pandemic, QR codes have become pervasive, and many payments and purchases now require a phone to read and follow a QR code to a payment portal. Cybercriminals are now taking advantage of this by increasingly using QR codes to target the public with **QR** codes that direct you to **phishing** websites (which are trying to trick us into revealing our payment details or identity information). QR codes can be displayed in a variety of locations. Sent to you through email, at the pay station of a parking garage, on a poster for a band performance.
+
+Bad QR codes can hard to spot, can evade email scanners, and could be affixed on top of genuine QR codes on signs and posters. 
+
 #### Disposing of your phone
 When you have a new phone, or are no longer using an old phone, you should take measures to safeguard the personal information stored on that phone.
 - Copy off your photos, videos, documents, or anything else you want to keep from your phone
@@ -53,7 +58,8 @@ When you have a new phone, or are no longer using an old phone, you should take 
 - If your phone has a removable media slot, remove any memory cards from the phone
 - Factory Reset your device to wipe all data from the phone
 - Delete that phone from your online trusted devices
- - For example, in your Google or Apple account, your cloud email, your streaming services etc
+  - For example, in your Google or Apple account, your cloud email, your streaming services etc
+
 
 ### Your computer
 Your computer may hold a rich collection of information about you, your family, your friends... your life. It may also contain information which belongs to your employer, your customers or your business. Because of this, your computer can be a significant target for cybercriminals and identity thieves. It is critical that you defend your computer at all levels, and take steps to protect the data that it holds. Remember that your computer is not just at risk from being online, but also physically at risk of damage and theft.

@@ -79,11 +79,20 @@ Your computer probably holds a rich collection of information about you, your fa
 
 #### Automatic Updates
 Regular, timely updates of your computer's software is extremely important to protect your system and your data. Weaknesses in the security of all software are continuously being discovered, and Software vendors will produce regular software updates to fix and protect against cybercriminals using those weaknesses for their advantage.
+- Enable automatic updates of your software.
 - When your system or applications prompt you to update, ensure you perform the update as soon as possible
 - Manually check for updates on occasion for your operating system to ensure you receive them as soon as possible
 - Avoid using software that is old and past it's support lifecycle. Vendors can't support their software forever, and they will eventually stop producing security updates. Ensure you are using current supported versions of your software. This includes your Windows and MacOS.
 
-#### Malware
+#### Malware Protection
+In the early days of computers, viruses were mischievous, and their authors were often curious about what they could get their malware to do. However, modern malware has evolved into a sophisticated and pervasive threat, capable of causing significant harm to individuals, businesses, and even entire nations. In the modern digital age where cyber attacks are increasingly frequent and financially driven, antivirus software plays a critical role in defending against these malicious programs. Here are some guidelines for using antivirus software on your digital devices:
+- Use a reputable brand of antivirus. When choosing which brand you will use, conduct your research on reputable websites and base your choice on articles from a trustworth source.
+- Carefully install your Antivirus software, and ensure it is running in the background at the end of the installation. Reboot your computer after installation to assure yourself the antivirus software starts up automatically.
+- Run an initial antivirus scan over your entire computer.
+- Keep your Antivirus software up to date. This should be automatic and not require you to do this manually. The software will check in the background for any updates, and will download them automatically.
+- Real-time or on-access scanning should be enabled if this is an option. The AV software will scan files as they are being accessed, rather than just running a weekly scan.
+- Enable browsing options which will monitor the websites you are visiting, and block and alert you to any malicious pages you attempt to visit.
+- Consider enabling firewall protection from the Antivirus software.
 
 
 

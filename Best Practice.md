@@ -14,13 +14,21 @@ If you lose your phone, it may cause you a great deal of trouble, and if a bad g
 - employment related data and services
 
 Here are some important mitigating strategies to reduce the risks associated with a lost phone.
+
+#### Automatic Updates for Android and iPhone
+Regular, timely updates of your phone's software (Android, iPhone) is extremely important to protect your device and your data. Weaknesses in the security of all software are continuously being discovered, and Software vendors will produce regular software updates to fix and protect against cybercriminals using those weaknesses for their advantage.
+- When your phone or tablet prompts you to update, ensure you perform the update as soon as possible
+- Manually check for updates on occasion for your phone to ensure you receive them as soon as possible
+- Avoid using old phones that no longer receive updates. Phone vendors can't support their devices forever, and they will eventually stop producing security updates.
+- Also ensure your apps are up-to-date, as they might also carry risks if they remain unpatched.
+
 #### Find my phone, also lock and wipe it
 Iphones and Android phones both have technology available for your to track and locate a lost phone, but it must be set up when you first get your phone otherwise you won't be able to use it.  If you haven't set it up yet on your phone, do so as soon as possible, or seek out advice from a trusted expert.
 When you lose your phone, time is critical to locate it, as once your phone battery goes flat, the phone can no longer send you location information. If the phone battery does go flat, the location system may retain the last known location of the device.
 
 You can also choose to put the phone into a **lost mode** which will
 - lock the phone and protect the information from curious people who find it.
- - They won't be able to use your phone, or access your private data.
+  - They won't be able to use your phone, or access your private data.
 - The screen can display your contact details so someone who finds it can return it to you.
 - The phone will emit a noise to alert people close by that it is there.
 - If in the device is recharged and powered back on at a later time, it will continue to alert and also update it's location to you. 
@@ -33,7 +41,7 @@ Advice to prevent phone porting
 - Set a secure password on your online account for your mobile phone
 - keep your details up to date with your mobile phone company
 - remove your personal and contact information from your social media and online pages
- - items such as date of birth and phone number will give the scammer information to port your number away
+  - items such as date of birth and phone number will give the scammer information to port your number away
 - Your mobile phone company may be able to set a PIN on your account. Remember and protect your PIN.
 
 #### Be alert to SMS scams
@@ -41,31 +49,39 @@ SMS scams are where a scammer will send you an SMS message, to trick you into ta
 
 Here is some guidance on how to avoid SMS scams:
 - Does the message have a link to tap on? If so, it may be a scam. Be extremely cautious.
-- Is this really someone you know or trust? Would they ask you to send money on SMS? Or would they call you and explain?
-- A stranger is trying to convince you to send money, Gift Cards, or invest money. Large returns or avoided penalties promised.
+- Is this really someone you know or trust? Would they ask you to send money via SMS? Or would they call you and explain?
+- Beware a stranger that is trying to convince you to send money, gift cards, or invest in their scheme. Large returns or avoided penalties are a red flag.
 - There is pressure to act ASAP to get a benefit or avoid a missed opportunity
 
 #### Beware of QRishing (aka Quishing)
-Since the pandemic, QR codes have become pervasive, and many payments and purchases now require a phone to read and follow a QR code to a payment portal. Cybercriminals are now taking advantage of this by increasingly using QR codes to target the public with **QR** codes that direct you to **phishing** websites (which are trying to trick us into revealing our payment details or identity information). QR codes can be displayed in a variety of locations. Sent to you through email, at the pay station of a parking garage, on a poster for a band performance.
+Since the pandemic, *QR codes* have become pervasive, and many payments and purchases now require a phone to read and follow a QR code to a payment portal. Cybercriminals are taking advantage of this, targeting the public with **QR** codes that direct you to **phishing** websites, trying to trick you into revealing our payment details or identity information. QR codes can be displayed in a variety of locations: sent to you through email, at the pay station of a parking garage, on a poster for a band performance, at the table of a cafe.
 
-Bad QR codes can hard to spot, can evade email scanners, and could be affixed on top of genuine QR codes on signs and posters. 
+Bad QR codes can hard to spot, can evade email scanners, and could be affixed on top of genuine QR codes on signs and posters. Here are some strategies for avoiding QRishing scams:
+- Directly navigate your browser to known domains and URLs rather than accepting the QR link
+- Approach QR links with skepticism, and carefully consider the URL it is directing you to before following it. It is not possible to judge trustworthiness of QR codes on sight. Even safe QR codes can be convincingly replaced by scam QR codes.
+- Search directly for your apps in the app store, and try to avoid installing apps from QR codes. Research, consider and install the apps you need in advance. Avoid rushed installs at the last minute if possible
+- Search for known scams before considering a QR code.
+- Educate yourself and your friends and family on the risks of QR codes.
 
 #### Disposing of your phone
 When you have a new phone, or are no longer using an old phone, you should take measures to safeguard the personal information stored on that phone.
 - Copy off your photos, videos, documents, or anything else you want to keep from your phone
 - Move your authenticators to your new phone
- - If you have set up authenticators for your online services (for 2-factor authentication via a code on your phone) you will need to move your authenticators onto your new phone. If you don't you may not be able to log in to your account.
+  - If you have set up authenticators for your online services (for 2-factor authentication via a code on your phone) you will need to move your authenticators onto your new phone. If you don't you may not be able to log in to your account.
 - If your phone has a removable media slot, remove any memory cards from the phone
 - Factory Reset your device to wipe all data from the phone
-- Delete that phone from your online trusted devices
+- Delete that phone from the trusted devices list of your cloud services 
   - For example, in your Google or Apple account, your cloud email, your streaming services etc
 
 
 ### Your computer
-Your computer may hold a rich collection of information about you, your family, your friends... your life. It may also contain information which belongs to your employer, your customers or your business. Because of this, your computer can be a significant target for cybercriminals and identity thieves. It is critical that you defend your computer at all levels, and take steps to protect the data that it holds. Remember that your computer is not just at risk from being online, but also physically at risk of damage and theft.
+Your computer probably holds a rich collection of information about you, your family, your friends... your *life*. It may also contain information which belongs to your employer, your customers or your business. Because of this, your computer can be a significant target for cybercriminals and identity thieves. It is critical that you defend your computer at all levels, and take steps to protect the data that it holds. Remember that your computer is not just at risk from being online, but also physically at risk of damage and theft.
 
 #### Automatic Updates
-
+Regular, timely updates of your computer's software is extremely important to protect your system and your data. Weaknesses in the security of all software are continuously being discovered, and Software vendors will produce regular software updates to fix and protect against cybercriminals using those weaknesses for their advantage.
+- When your system or applications prompt you to update, ensure you perform the update as soon as possible
+- Manually check for updates on occasion for your operating system to ensure you receive them as soon as possible
+- Avoid using software that is old and past it's support lifecycle. Vendors can't support their software forever, and they will eventually stop producing security updates. Ensure you are using current supported versions of your software. This includes your Windows and MacOS.
 
 #### Malware
 

@@ -96,13 +96,20 @@ In the early days of computers, viruses were mischievous, and their authors were
 
 
 
-#### Password and Disk Encryption
-<!--  prevent logging in to your laptop -->
-<!--  If your computer is stolen, your data is still protected -->
-<!-- "the bad guy can prove they're you" -->
-Passwords protect your devices and cloud services
-#### Antivirus
-<!--  "someone else running their program on your computer" -->
+#### Strong Password and Disk Encryption
+While your computer is sitting on your desk, at home or at work, your login password protects your data from casual unauthorized access. However, if your computer gets stolen or lost, disk encryption ensures that there is no way for your data to be read without your password, even by the best hacker.
+
+Regarding complex passwords, we used to recommend using a long and complex password, as these are difficult for an attacker to guess. However, recent research and guidance from cybersecurity experts suggest that passphrases offer a more user-friendly alternative without compromising security. Passphrases, composed of multiple words or a sentence, are easier to remember while still providing strong protection against unauthorized access.
+
+- Set a strong login password or passphrase for your computer. Although it is convenient to have no password for your computer, an intruder would be able to access your data as simply as you could. 
+- Make sure your password/passphrase could not be guessed.
+- Disk encryption protects your data, even if your computer is stolen. A thief will never be able to access your encrypted data without your password.
+
+
+#### Backups
+Personal computer backups are important for protecting your data from both accidental loss, and from cyber attackers. Your personal computer may be storing your family photos, personal financial records and critical business documents. It's also important to remember that the older your computer is, the more likely it is that the disk will fail. To ensure the safety and accessibility of your data, it's essential to implement best practices for data backups:
+
+
 #### Web Browsing
 <!--  Be very careful where your browse, what you are clicking on -->
 <!--  terms, conditions, privacy policy -->
